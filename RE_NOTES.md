@@ -18,4 +18,4 @@ FUN_8001e66c
 
 ## Progress
 
-Changed FUN_8001d2bc → DrawText
+- Changed FUN_8001d2bc → DrawText
