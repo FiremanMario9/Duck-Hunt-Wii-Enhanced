@@ -15,3 +15,7 @@ FUN_8001e66c
 - Find pause input.
 - Find third-shot "Got Away" bug.
 - Replace music.
+
+## Progress
+
+Changed FUN_8001d2bc → DrawText
